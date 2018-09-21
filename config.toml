@@ -1,3 +1,4 @@
+theme = "Academic"
 baseURL = "http://www.andreas-haupt.com"
 languageCode = "en-us"
 title = "Test"
